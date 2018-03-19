@@ -180,7 +180,7 @@ PostitionsQueue
 Car and  
 CarTracker
 
-Following is sample of video.
+Following is sample of video.  
 ![demo][demo]
 
 You can find whole video [here.](https://github.com/sandysap22/detect_cars/blob/master/project_video_output.mp4)
